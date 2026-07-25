@@ -128,6 +128,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-origin
 ### 📊 Estatísticas
 
 <p>
+  
 <img 
 align="left" 
 height="180"
@@ -137,6 +138,6 @@ src="https://github-stats-extended.vercel.app/api?username=lukinhaarrudah&theme=
 <img 
 align="left" 
 height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukinhaarrudah&theme=radical"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"
 />
 </p>
