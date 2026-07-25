@@ -131,12 +131,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-origin
 <img 
 align="left" 
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=lukinhaarrudah&show_icons=true&theme=radical"
+src="https://github-stats-extended.vercel.app/api?username=lukinhaarrudah&theme=radical"
 />
 
 <img 
 align="left" 
 height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhaarrudah&layout=compact&theme=radical"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukinhaarrudah&theme=radical"
 />
 </p>
