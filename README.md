@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Arruda Leme
 
-**`Software Developer | Backend Python | Full Stack Developer`**
+**`Software Developer | Pentester | Full Stack Developer`**
 
 Me chamo Lucas Arruda Leme, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela Universidade São Francisco (USF)**.
 
