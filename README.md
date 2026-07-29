@@ -138,6 +138,6 @@ src="https://github-stats-extended.vercel.app/api?username=lukinhaarrudah&theme=
 <img 
 align="left" 
 height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukinhaarrudah&theme=radical"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukinahaarrudah&theme=radical"
 />
 </p>
