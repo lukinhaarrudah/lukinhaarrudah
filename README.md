@@ -135,9 +135,9 @@ height="180"
 src="https://github-stats-extended.vercel.app/api?username=lukinhaarrudah&theme=radical"
 />
 
-<img 
-align="left" 
-height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukinhaarrudah&theme=radical"
+<img
+  align="left"
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukinhaarrudah&theme=radical&layout=compact&langs_count=8&v=2"
 />
 </p>
