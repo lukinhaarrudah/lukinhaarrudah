@@ -4,7 +4,7 @@
 
 Me chamo Lucas Arruda Leme, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas pela Universidade São Francisco (USF)**.
 
-Tenho foco em Pentest e desenvolvimento de software , principalmente no backend utilizando **Python**, criando APIs REST, automações de processos e aplicações web. Também possuo conhecimentos em desenvolvimento frontend com **JavaScript**, permitindo desenvolver soluções completas, desde a lógica de negócio até a interface do usuário.
+Tenho foco em Pentest e desenvolvimento de software , principalmente no backend utilizando **Python** e **Node.js**, criando APIs REST, automações de processos e aplicações web. Também possuo conhecimentos em desenvolvimento frontend com **JavaScript**, permitindo desenvolver soluções completas, desde a lógica de negócio até a interface do usuário.
 
 Neste GitHub compartilho projetos desenvolvidos para aprimorar minhas habilidades, explorar novas tecnologias, aplicar boas práticas de desenvolvimento de software, Compartilhar resolução de laboratórios CTF e postar vulnerabilidades descobertas. Estou sempre buscando evoluir tecnicamente e criar soluções eficientes para problemas reais.
 
